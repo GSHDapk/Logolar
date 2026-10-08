@@ -1,4 +1,396 @@
 [
+  {
+    "isim": "Fatih Terim",
+    "soz": "Galatasaray pes etmez, Galatasaray vazgeçmez."
+  },
+  {
+    "isim": "Fatih Terim",
+    "soz": "Büyük takımlar zor zamanlarda belli olur."
+  },
+  {
+    "isim": "Fatih Terim",
+    "soz": "Galatasaray'ın olduğu yerde her zaman umut vardır."
+  },
+  {
+    "isim": "Fatih Terim",
+    "soz": "Hedef her zaman zirvedir."
+  },
+  {
+    "isim": "Fatih Terim",
+    "soz": "Galatasaraylılık bir duruştur."
+  },
+  {
+    "isim": "Fatih Terim",
+    "soz": "Kazanmak için önce inanmamız gerekiyor."
+  },
+  {
+    "isim": "Fatih Terim",
+    "soz": "Galatasaray için mücadele etmekten asla vazgeçmeyiz."
+  },
+  {
+    "isim": "Fatih Terim",
+    "soz": "Biz Galatasarayız. Sonuna kadar mücadele ederiz."
+  },
+  {
+    "isim": "Fatih Terim",
+    "soz": "Bu forma için sonuna kadar savaşılır."
+  },
+  {
+    "isim": "Fatih Terim",
+    "soz": "Galatasaray'ın ruhunda mücadele vardır."
+  },
+
+  {
+    "isim": "Okan Buruk",
+    "soz": "Galatasaray'ın hedefi her zaman kazanmaktır."
+  },
+  {
+    "isim": "Okan Buruk",
+    "soz": "Bu takım sonuna kadar mücadele edecek."
+  },
+  {
+    "isim": "Okan Buruk",
+    "soz": "Galatasaray formasının ağırlığını biliyoruz."
+  },
+  {
+    "isim": "Okan Buruk",
+    "soz": "Taraftarımızla birlikte çok daha güçlüyüz."
+  },
+  {
+    "isim": "Okan Buruk",
+    "soz": "Galatasaray her zaman en iyisini hedefler."
+  },
+  {
+    "isim": "Okan Buruk",
+    "soz": "Biz birlikte olduğumuzda çok daha güçlüyüz."
+  },
+  {
+    "isim": "Okan Buruk",
+    "soz": "Son ana kadar mücadele edeceğiz."
+  },
+  {
+    "isim": "Okan Buruk",
+    "soz": "Galatasaray için her maç çok önemli."
+  },
+  {
+    "isim": "Okan Buruk",
+    "soz": "Bu formanın hakkını vermek zorundayız."
+  },
+
+  {
+    "isim": "Hagi",
+    "soz": "Galatasaray benim için sadece bir kulüp değil, bir ailedir."
+  },
+  {
+    "isim": "Hagi",
+    "soz": "Ali Sami Yen'deki atmosfer hiçbir yerde yok."
+  },
+  {
+    "isim": "Hagi",
+    "soz": "Galatasaray taraftarı dünyanın en özel taraftarlarından biridir."
+  },
+  {
+    "isim": "Hagi",
+    "soz": "Sarı kırmızı forma için savaşmak benim için bir tutkuydu."
+  },
+  {
+    "isim": "Hagi",
+    "soz": "Galatasaray'da oynamak her futbolcu için büyük bir onurdur."
+  },
+  {
+    "isim": "Hagi",
+    "soz": "Galatasaray'ın büyüklüğünü sahaya çıktığınızda hissedersiniz."
+  },
+  {
+    "isim": "Hagi",
+    "soz": "Taraftarın sevgisi futbolcuya güç verir."
+  },
+
+  {
+    "isim": "Victor Osimhen",
+    "soz": "Bu forma için her şeyimi vermek istiyorum."
+  },
+  {
+    "isim": "Victor Osimhen",
+    "soz": "Taraftarımızın enerjisi bize güç veriyor."
+  },
+  {
+    "isim": "Victor Osimhen",
+    "soz": "Bu takım için savaşmaya devam edeceğim."
+  },
+  {
+    "isim": "Victor Osimhen",
+    "soz": "Galatasaray için sahada her şeyimi bırakırım."
+  },
+  {
+    "isim": "Victor Osimhen",
+    "soz": "Bu taraftarın sevgisini sahada karşılıksız bırakmayacağım."
+  },
+  {
+    "isim": "Victor Osimhen",
+    "soz": "Galatasaray formasıyla kazanmak için buradayım."
+  },
+
+  {
+    "isim": "Galatasaray",
+    "soz": "Galatasaray varsa umut vardır."
+  },
+  {
+    "isim": "Galatasaray",
+    "soz": "Galatasaray bir his takımıdır."
+  },
+  {
+    "isim": "Galatasaray",
+    "soz": "Son düdüğe kadar Galatasaray!"
+  },
+  {
+    "isim": "Galatasaray",
+    "soz": "Tek aşk Galatasaray."
+  },
+  {
+    "isim": "Galatasaray",
+    "soz": "Bir ömür Galatasaray."
+  },
+  {
+    "isim": "Galatasaray",
+    "soz": "Ruhumuz sarı kırmızı."
+  },
+  {
+    "isim": "Galatasaray",
+    "soz": "Hedef Avrupa!"
+  },
+  {
+    "isim": "Galatasaray",
+    "soz": "Hedef 27!"
+  },
+  {
+    "isim": "Galatasaray",
+    "soz": "Aslanlar sahaya çıktığında hikâye yeniden başlar."
+  },
+  {
+    "isim": "Galatasaray",
+    "soz": "Şampiyonluklar gelir geçer, Galatasaray sevgisi kalır."
+  },
+  {
+    "isim": "Galatasaray",
+    "soz": "Kalbimizde sarı, ruhumuzda kırmızı."
+  },
+  {
+    "isim": "Galatasaray",
+    "soz": "Sarı kırmızıya gönül verenler hiçbir zaman yalnız değildir."
+  },
+  {
+    "isim": "Galatasaray",
+    "soz": "Galatasaraylı olmak ayrıcalıktır."
+  },
+  {
+    "isim": "Galatasaray",
+    "soz": "Biz Galatasarayız, pes etmeyiz."
+  },
+
+  {
+    "isim": "Galatasaray Taraftarı",
+    "soz": "Saldır Galatasaray!"
+  },
+  {
+    "isim": "Galatasaray Taraftarı",
+    "soz": "Biz bitti demeden bitmez!"
+  },
+  {
+    "isim": "Galatasaray Taraftarı",
+    "soz": "Sarı kırmızı aşk bitmez."
+  },
+  {
+    "isim": "Galatasaray Taraftarı",
+    "soz": "Ne olursa olsun, sonuna kadar Galatasaray!"
+  },
+  {
+    "isim": "Galatasaray Taraftarı",
+    "soz": "Korku yok, geri adım yok, Galatasaray var!"
+  },
+  {
+    "isim": "Galatasaray Taraftarı",
+    "soz": "Tribünde milyonlar, sahada on bir aslan."
+  },
+  {
+    "isim": "Galatasaray Taraftarı",
+    "soz": "Avrupa duy sesimizi, Galatasaray geliyor!"
+  },
+  {
+    "isim": "Galatasaray Taraftarı",
+    "soz": "Cehennem Ali Sami Yen'de başlar."
+  },
+  {
+    "isim": "Galatasaray Taraftarı",
+    "soz": "Bizim sevdamızın rengi sarı, ateşi kırmızı."
+  },
+  {
+    "isim": "Galatasaray Taraftarı",
+    "soz": "Bu sevda bitmez!"
+  },
+  {
+    "isim": "Galatasaray Taraftarı",
+    "soz": "Aslan kükrerse tribün susmaz."
+  },
+  {
+    "isim": "Galatasaray Taraftarı",
+    "soz": "Galatasaray için 90 dakika değil, bir ömür mücadele edilir."
+  },
+  {
+    "isim": "Galatasaray Taraftarı",
+    "soz": "Kalpten kalbe uzanan tek sevda: Galatasaray."
+  },
+  {
+    "isim": "Galatasaray Taraftarı",
+    "soz": "Sarı kırmızıya hayatını adayanlara selam olsun."
+  },
+  {
+    "isim": "Galatasaray Taraftarı",
+    "soz": "Bizim için futbol değil, Galatasaray var."
+  },
+  {
+    "isim": "Galatasaray Taraftarı",
+    "soz": "Cimbom başı dik yürür."
+  },
+  {
+    "isim": "Galatasaray Taraftarı",
+    "soz": "Aslan gibi mücadele et!"
+  },
+  {
+    "isim": "Galatasaray Taraftarı",
+    "soz": "İnandık, güvendik, hep birlikte başaracağız!"
+  },
+  {
+    "isim": "Galatasaray Taraftarı",
+    "soz": "Haydi Cimbom, Avrupa'yı titre!"
+  },
+  {
+    "isim": "Galatasaray Taraftarı",
+    "soz": "Sarı kırmızı bayrak dalgalandıkça bu sevda yaşayacak."
+  },
+  {
+    "isim": "Galatasaray Taraftarı",
+    "soz": "Ali Sami Yen'de gece, rakibe cehennem!"
+  },
+  {
+    "isim": "Galatasaray Taraftarı",
+    "soz": "Tek yol zafer!"
+  },
+  {
+    "isim": "Galatasaray Taraftarı",
+    "soz": "Bu arma için, bu forma için, sonuna kadar!"
+  },
+  {
+    "isim": "Galatasaray Taraftarı",
+    "soz": "Kalpler sarı, kanımız kırmızı."
+  },
+  {
+    "isim": "Galatasaray Taraftarı",
+    "soz": "Bizim sevdamızın adı Galatasaray."
+  },
+  {
+    "isim": "Galatasaray Taraftarı",
+    "soz": "Aslanlar asla geri adım atmaz."
+  },
+  {
+    "isim": "Galatasaray Taraftarı",
+    "soz": "Sahada savaş, tribünde ateş!"
+  },
+  {
+    "isim": "Galatasaray Taraftarı",
+    "soz": "Her maç yeni bir zafer hikâyesi."
+  },
+  {
+    "isim": "Galatasaray Taraftarı",
+    "soz": "Cimbom için son nefese kadar!"
+  },
+  {
+    "isim": "Galatasaray Taraftarı",
+    "soz": "Bu tribün susmaz, bu sevda bitmez!"
+  },
+  {
+    "isim": "Galatasaray Taraftarı",
+    "soz": "Sarı kırmızı yürekler tek ses!"
+  },
+  {
+    "isim": "Galatasaray Taraftarı",
+    "soz": "Kükre Aslanım, Avrupa duysun!"
+  },
+  {
+    "isim": "Galatasaray Taraftarı",
+    "soz": "Şimdi saldırma zamanı!"
+  },
+  {
+    "isim": "Galatasaray Taraftarı",
+    "soz": "Formanın hakkını ver, armayı gururlandır!"
+  },
+  {
+    "isim": "Galatasaray Taraftarı",
+    "soz": "Galatasaray varsa mücadele vardır."
+  },
+  {
+    "isim": "Galatasaray Taraftarı",
+    "soz": "Bizim hikâyemiz tribünde başladı, sahada devam ediyor."
+  },
+  {
+    "isim": "Galatasaray Taraftarı",
+    "soz": "Sarı kırmızı sevdamız nesilden nesile."
+  },
+  {
+    "isim": "Galatasaray Taraftarı",
+    "soz": "Bir tribün, milyonlarca yürek."
+  },
+  {
+    "isim": "Galatasaray Taraftarı",
+    "soz": "Armanın peşinde, zaferin yolunda."
+  },
+  {
+    "isim": "Galatasaray Taraftarı",
+    "soz": "Galatasaray için her şey feda."
+  },
+  {
+    "isim": "Galatasaray Taraftarı",
+    "soz": "Bugün değilse yarın, ama mutlaka zafer!"
+  },
+  {
+    "isim": "Galatasaray Taraftarı",
+    "soz": "Sarı kırmızı ateş hiç sönmeyecek."
+  },
+  {
+    "isim": "Galatasaray Taraftarı",
+    "soz": "Cimbom varsa umut vardır."
+  },
+  {
+    "isim": "Galatasaray Taraftarı",
+    "soz": "Galatasaray için kalpler aynı atar."
+  },
+  {
+    "isim": "Galatasaray Taraftarı",
+    "soz": "Zafer bizim karakterimiz."
+  },
+  {
+    "isim": "Galatasaray Taraftarı",
+    "soz": "Rakip kim olursa olsun, Galatasaray sahaya kazanmak için çıkar."
+  },
+  {
+    "isim": "Galatasaray Taraftarı",
+    "soz": "Aslanın olduğu yerde korku olmaz."
+  },
+  {
+    "isim": "Galatasaray Taraftarı",
+    "soz": "Son saniyeye kadar inan!"
+  },
+  {
+    "isim": "Galatasaray Taraftarı",
+    "soz": "Sarı kırmızıya gönül veren milyonlar, tek yürek!"
+  },
+  {
+    "isim": "Galatasaray Taraftarı",
+    "soz": "Bu arma bizim gururumuz."
+  },
+  {
+    "isim": "Galatasaray Taraftarı",
+    "soz": "Galatasaray sevgisi hiçbir skora sığmaz."}
   {"soz":"Biz bitti demeden bitmez!","isim":"Fatih Terim"},
   {"soz":"Ben bu saatten sonra ders almam, ders veririm.","isim":"Fatih Terim"},
   {"soz":"Yenilmek kolay, yenmek olay!","isim":"Fatih Terim"},
